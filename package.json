@@ -1,0 +1,17 @@
+{
+  "name": "seccion-4",
+  "version": "0.0.1",
+  "description": "Simple tabla de miltiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis Arenas",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
